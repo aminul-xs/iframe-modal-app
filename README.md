@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# iframe-modal-app
-=======
+
 # 🌐 React iframe Modal - useSyncExternalStore
 
 একটি আধুনিক React প্রজেক্ট যা **useSyncExternalStore Hook** ব্যবহার করে external store (iframe) কে React এর সাথে sync করে। এটি **HTML5 postMessage API** এর মাধ্যমে parent window এবং iframe এর মধ্যে যোগাযোগ করে।
@@ -568,4 +566,4 @@ function sendInputChange() {
 ## 📝 License
 
 এই প্রজেক্ট MIT License এর অধীনে।
->>>>>>> 742c9fb (React iframe Modal - useSyncExternalStore)
+(React iframe Modal - useSyncExternalStore)
